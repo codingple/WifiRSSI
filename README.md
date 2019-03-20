@@ -25,9 +25,9 @@ Finally, this information is visualized through the web service.
 You can see the demonstration video for each module in here:  
 * **Data Collecting Application**  
 > [https://www.youtube.com/watch?v=FVGyEcZ3yXQ](https://www.youtube.com/watch?v=FVGyEcZ3yXQ)  
-&nbsp;  
+
 * **Data Processing**  
 > [https://www.youtube.com/watch?v=LmmYxxK5_dA&t=37s](https://www.youtube.com/watch?v=LmmYxxK5_dA&t=37s)  
-&nbsp;  
+
 * **Web Service**  
 > [https://www.youtube.com/watch?v=k3jNL8_YfCM](https://www.youtube.com/watch?v=k3jNL8_YfCM)
